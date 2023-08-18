@@ -2,7 +2,7 @@
 name = "chumakova_bot"
 version = "0.1.0"
 description = ""
-repository = "some_git_url"
+repository = "https://github.com/chumanastasia/chumakovi_bot"
 authors = ["Anastasia Chumakova <pospelowa.anast@yandex.ru>"]
 packages = [
     {include = "src"},
